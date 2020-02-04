@@ -9,14 +9,17 @@
   },
   "dependencies": {
     "async": "^2.6.1",
-    "axios": "^0.18.0",
-    "lodash": "^4.17.10",
-    "node-sass": "^4.9.0",
+    "axios": "^0.18.1",
+    "lodash": "^4.17.15",
+    "node-sass": "^4.13.1",
     "promise": "^8.0.1",
     "pug": "^2.0.3",
     "pug-plain-loader": "^1.0.0",
     "sass-loader": "^7.0.3",
-    "vue": "^2.5.16"
+    "vue": "^2.5.16",
+    "express": "latest",
+    "serve-static": "latest",
+    "serve-static": "latest"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.0-beta.15",
